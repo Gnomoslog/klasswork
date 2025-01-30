@@ -1,0 +1,13 @@
+h1{ animation-name: slidein  ;
+    animation: slidein  10s linear infinite;}
+
+
+@keyframes slidein {
+    0%{color: rgb(225, 0, 0); font-size: 70px;}
+    22%{color: rgb(24, 180, 121);font-size: 100px;}
+    44%{color: rgb(199, 23, 196);font-size : 70px;}
+    57%{color: rgb(162, 9, 185);font-size: 70px;}
+    78%{color: rgb(111, 131, 141);font-size: 70px;}
+    100%{color: rgb(162, 223, 19);font-size: 70px;}
+    78%{color: rgb(29, 177, 182);font-size: 70px;}
+}
